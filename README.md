@@ -37,7 +37,7 @@ Podés encontrarme en:
 <br><br>
 En el siguiente enlace se encuentra el portfolio que hice como Proyecto Final de **YoProgramo**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://pov-porfolio.web.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://pov-portfolio.web.app/)
 
 Ahí vas a poder encontrar algunas cosas más acerca de mí y, tal vez, saber por qué digo que no soy Programadora...
 
